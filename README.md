@@ -1,3 +1,3 @@
-# certificados
+## certificados 📋
 
-- "*Alura*" Git and Github: Control and Share Your Code
+- "*Alura*" PHP Composer: dependências, autoload e publicação
