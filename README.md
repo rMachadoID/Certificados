@@ -23,7 +23,7 @@
 | ![][iAlu] Alura | **PHP e TDD: testes com PHPUnit**                                             | <a href="https://cursos.alura.com.br/certificate/rafaelrpmachado/phpunit-tdd">Certificado</a>                                    |
 | ![][iAlu] Alura | **Mocks em PHP: entenda os dublês de testes**                                 | <a href="https://cursos.alura.com.br/user/rafaelrpmachado/course/php-mocks/certificate">Certificado</a>                          |
 | ![][iAlu] Alura | **Testes de integração com PHP: testando o acesso à API e ao banco de dados** | <a href="https://cursos.alura.com.br/user/rafaelrpmachado/course/php-testes-integracao/certificate">Certificado</a>              |
-
+| ![][iAlu] Alura | **PHP e Behavior Driven Development: BDD com Behat**                          | <a href="https://cursos.alura.com.br/user/rafaelrpmachado/course/php-introducao-bdd/certificate">Certificado</a>                 |
 
 ## Front-End
 | Órgão emissor   | Curso                                                                      | Certificado de conclusão                                                                                                                  |
