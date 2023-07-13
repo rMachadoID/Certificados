@@ -9,21 +9,23 @@
 
 
 ## Back-End
-| Órgão emissor   | Curso                                                                         | Certificado de conclusão                                                                                                         |
-| --------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| ![][iAlu] Alura | **PHP Strings: manipulando textos com PHP**                                   | <a href="https://cursos.alura.com.br/user/rafaelrpmachado/course/php-strings-manipulando-textos-php/certificate">Certificado</a> |
-| ![][iAlu] Alura | **PHP: conceitos, lidando com dados, loops e mais**                           | <a href="https://cursos.alura.com.br/user/rafaelrpmachado/course/php-primeiros-passos/certificate">Certificado</a>               |
-| ![][iAlu] Alura | **Avançando com PHP: Arrays, Strings, Função e Web**                          | <a href="https://cursos.alura.com.br/certificate/e22ac41d-a229-4393-a567-afa2c9bbd3e3">Certificado</a>                           |
-| ![][iAlu] Alura | **PHP: manipulando coleções com Arrays**                                      | <a href="https://cursos.alura.com.br/user/rafaelrpmachado/course/php-manipulando-colecoes-arrays/certificate">Certificado</a>    |
-| ![][iAlu] Alura | **PHP Composer: Dependências, Autoload e Publicação**                         | <a href="https://cursos.alura.com.br/certificate/rafaelrpmachado/php-composer">Certificado</a>                                   |
-| ![][iAlu] Alura | **CodeIgniter I: Programando elegantemente para a web**                       | <a href="https://cursos.alura.com.br/certificate/rafaelrpmachado/codeigniter">Certificado</a>                                    |
-| ![][iAlu] Alura | **PHP na Web: lidando com segurança e API**                                   | <a href="https://cursos.alura.com.br/certificate/rafaelrpmachado/php-web-lidando-seguranca-api">Certificado</a>                  |
-| ![][iAlu] Alura | **Design Patterns em PHP: padrões comportamentais**                           | <a href="https://cursos.alura.com.br/user/rafaelrpmachado/course/php-design-pattern-comportamental/certificate">Certificado</a>  |
-| ![][iAlu] Alura | **Orientação a Objetos com PHP: Classes, métodos e atributos**                | <a href="https://cursos.alura.com.br/user/rafaelrpmachado/course/php-oo-classes-metodos-atributos/certificate">Certificado</a>   |
-| ![][iAlu] Alura | **PHP e TDD: testes com PHPUnit**                                             | <a href="https://cursos.alura.com.br/certificate/rafaelrpmachado/phpunit-tdd">Certificado</a>                                    |
-| ![][iAlu] Alura | **Mocks em PHP: entenda os dublês de testes**                                 | <a href="https://cursos.alura.com.br/user/rafaelrpmachado/course/php-mocks/certificate">Certificado</a>                          |
-| ![][iAlu] Alura | **Testes de integração com PHP: testando o acesso à API e ao banco de dados** | <a href="https://cursos.alura.com.br/user/rafaelrpmachado/course/php-testes-integracao/certificate">Certificado</a>              |
-| ![][iAlu] Alura | **PHP e Behavior Driven Development: BDD com Behat**                          | <a href="https://cursos.alura.com.br/user/rafaelrpmachado/course/php-introducao-bdd/certificate">Certificado</a>                 |
+| Órgão emissor   | Curso                                                                         | Certificado de conclusão                                                                                                                |
+| --------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| ![][iAlu] Alura | **PHP Strings: manipulando textos com PHP**                                   | <a href="https://cursos.alura.com.br/user/rafaelrpmachado/course/php-strings-manipulando-textos-php/certificate">Certificado</a>        |
+| ![][iAlu] Alura | **PHP: conceitos, lidando com dados, loops e mais**                           | <a href="https://cursos.alura.com.br/user/rafaelrpmachado/course/php-primeiros-passos/certificate">Certificado</a>                      |
+| ![][iAlu] Alura | **Avançando com PHP: Arrays, Strings, Função e Web**                          | <a href="https://cursos.alura.com.br/certificate/e22ac41d-a229-4393-a567-afa2c9bbd3e3">Certificado</a>                                  |
+| ![][iAlu] Alura | **PHP: manipulando coleções com Arrays**                                      | <a href="https://cursos.alura.com.br/user/rafaelrpmachado/course/php-manipulando-colecoes-arrays/certificate">Certificado</a>           |
+| ![][iAlu] Alura | **PHP Composer: Dependências, Autoload e Publicação**                         | <a href="https://cursos.alura.com.br/certificate/rafaelrpmachado/php-composer">Certificado</a>                                          |
+| ![][iAlu] Alura | **CodeIgniter I: Programando elegantemente para a web**                       | <a href="https://cursos.alura.com.br/certificate/rafaelrpmachado/codeigniter">Certificado</a>                                           |
+| ![][iAlu] Alura | **PHP na Web: lidando com segurança e API**                                   | <a href="https://cursos.alura.com.br/certificate/rafaelrpmachado/php-web-lidando-seguranca-api">Certificado</a>                         |
+| ![][iAlu] Alura | **Design Patterns em PHP: padrões comportamentais**                           | <a href="https://cursos.alura.com.br/user/rafaelrpmachado/course/php-design-pattern-comportamental/certificate">Certificado</a>         |
+| ![][iAlu] Alura | **Orientação a Objetos com PHP: Classes, métodos e atributos**                | <a href="https://cursos.alura.com.br/user/rafaelrpmachado/course/php-oo-classes-metodos-atributos/certificate">Certificado</a>          |
+| ![][iAlu] Alura | **PHP e TDD: testes com PHPUnit**                                             | <a href="https://cursos.alura.com.br/certificate/rafaelrpmachado/phpunit-tdd">Certificado</a>                                           |
+| ![][iAlu] Alura | **Mocks em PHP: entenda os dublês de testes**                                 | <a href="https://cursos.alura.com.br/user/rafaelrpmachado/course/php-mocks/certificate">Certificado</a>                                 |
+| ![][iAlu] Alura | **Testes de integração com PHP: testando o acesso à API e ao banco de dados** | <a href="https://cursos.alura.com.br/user/rafaelrpmachado/course/php-testes-integracao/certificate">Certificado</a>                     |
+| ![][iAlu] Alura | **PHP e Behavior Driven Development: BDD com Behat**                          | <a href="https://cursos.alura.com.br/user/rafaelrpmachado/course/php-introducao-bdd/certificate">Certificado</a>                        |
+| ![][iAlu] Alura | **SOLID com PHP: princípios da programação orientada a objetos**              | <a href="https://cursos.alura.com.br/user/rafaelrpmachado/course/solid-php-principios-orientacao-a-objetos/certificate">Certificado</a> |
+
 
 ## Front-End
 | Órgão emissor   | Curso                                                                      | Certificado de conclusão                                                                                                                  |
