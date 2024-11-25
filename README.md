@@ -55,8 +55,8 @@
 ## Eventos
 | Órgão emissor   | Evento                                        | Certificado de conclusão                                                                                                   |
 | --------------- | -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| | **DevopsDays JF** | <a href="https://cursos.alura.com.br/user/rafaelrpmachado/course/mysql-manipule-dados-com-sql/certificate">Certificado</a> |
-| | **CodeXperience Zona da Mata** | <a href="https://cursos.alura.com.br/user/rafaelrpmachado/course/mysql-manipule-dados-com-sql/certificate">Certificado</a> |
+| | **DevopsDays JF** | <a href="Eventos_pdf/DevopsDays_2024.pdf">Certificado</a> |
+| | **CodeXperience Zona da Mata** | <a href="Eventos_pdf/CodeXperience_2024.pdf">Certificado</a> |
 
 
 
