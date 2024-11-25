@@ -52,7 +52,11 @@
 | --------------- | -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | ![][iAlu] Alura | **SQL com MySQL: manipule e consulte dados** | <a href="https://cursos.alura.com.br/user/rafaelrpmachado/course/mysql-manipule-dados-com-sql/certificate">Certificado</a> |
 
-
+## Eventos
+| Órgão emissor   | Evento                                        | Certificado de conclusão                                                                                                   |
+| --------------- | -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| | **DevopsDays JF** | <a href="https://cursos.alura.com.br/user/rafaelrpmachado/course/mysql-manipule-dados-com-sql/certificate">Certificado</a> |
+| | **CodeXperience Zona da Mata** | <a href="https://cursos.alura.com.br/user/rafaelrpmachado/course/mysql-manipule-dados-com-sql/certificate">Certificado</a> |
 
 
 
