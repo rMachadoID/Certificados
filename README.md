@@ -2,10 +2,17 @@
 
 
 # Categoria
+- <a href="https://github.com/rMachadoID/Certificados#eventos">Eventos</a>
 - <a href="https://github.com/rMachadoID/Certificados#back-end">Back-End</a>
 - <a href="https://github.com/rMachadoID/Certificados#front-end">Front-End</a>
 - <a href="https://github.com/rMachadoID/Certificados#ui--design">UI & Design</a>
 - <a href="https://github.com/rMachadoID/Certificados#data-base">Data base</a>
+
+## Eventos
+| Evento                                        | Certificado de conclusão                                                                                                   |
+| -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| **DevopsDays JF** | <a href="Eventos_pdf/DevopsDays_2024.pdf">Certificado</a> |
+| **CodeXperience Zona da Mata** | <a href="Eventos_pdf/CodeXperience_2024.pdf">Certificado</a> |
 
 
 ## Back-End
@@ -51,12 +58,6 @@
 | Órgão emissor   | Curso                                        | Certificado de conclusão                                                                                                   |
 | --------------- | -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | ![][iAlu] Alura | **SQL com MySQL: manipule e consulte dados** | <a href="https://cursos.alura.com.br/user/rafaelrpmachado/course/mysql-manipule-dados-com-sql/certificate">Certificado</a> |
-
-## Eventos
-| Evento                                        | Certificado de conclusão                                                                                                   |
-| -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| **DevopsDays JF** | <a href="Eventos_pdf/DevopsDays_2024.pdf">Certificado</a> |
-| **CodeXperience Zona da Mata** | <a href="Eventos_pdf/CodeXperience_2024.pdf">Certificado</a> |
 
 
 
