@@ -14,7 +14,7 @@
 | **DevopsDays JF** | <a href="Eventos_pdf/DevopsDays_2024.pdf">Certificado</a> |
 | **CodeXperience Zona da Mata** | <a href="Eventos_pdf/CodeXperience_2024.pdf">Certificado</a> |
 | **Dimensa Security Forum (Tempest e Trend)** | <a href="Eventos_pdf/DimensaSecurityForum.pdf">Certificado</a> |
-| **Dimensa Security Forum (Tempest e Trend)** | <a href="Eventos_pdf/TreinamentoEmSegurancaNoDesenvolvimentoDeAplicacoes.pdf">Certificado</a> |
+| **Nova8** | <a href="Eventos_pdf/TreinamentoEmSegurancaNoDesenvolvimentoDeAplicacoes.pdf">Certificado</a> |
 
 
 ## Back-End
