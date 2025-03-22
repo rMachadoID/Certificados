@@ -15,6 +15,7 @@
 | **CodeXperience Zona da Mata** | <a href="Eventos_pdf/CodeXperience_2024.pdf">Certificado</a> |
 | **Dimensa Security Forum (Tempest e Trend)** | <a href="Eventos_pdf/DimensaSecurityForum.pdf">Certificado</a> |
 | **Treinamento de Segurança (Nova8)** | <a href="Eventos_pdf/TreinamentoEmSegurancaNoDesenvolvimentoDeAplicacoes.pdf">Certificado</a> |
+| **Open Laravel Week Multi Tenancy** | <a href="Eventos_pdf/OpenLaravelWeekMultiTenancy.pdf">Certificado</a> |
 
 
 ## Back-End
